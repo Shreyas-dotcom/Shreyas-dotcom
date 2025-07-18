@@ -15,13 +15,6 @@ I'm Shreyas Sharma, a technology aficionado, and high-school student. I'm deeply
 
 
 
-## Connect With Me
-
-<a href="https://www.linkedin.com/in/shreyas-sharma-ss/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Shreyas Sharma | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/shreyas.by.shreyas/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Shreyas Sharma | Instagram" width="21px"/></a>
-
-
-  
 
 
 
