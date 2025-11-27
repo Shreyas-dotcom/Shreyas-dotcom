@@ -5,10 +5,7 @@
 
 I'm Shreyas Sharma, a technology aficionado, and high-school student. I'm deeply passionate about Robotics. Of late, I've been working on devleoping a lot Aerial Robotics projects. I'm Co-Founder of [Phoenix Squadron](https://phoenixsquadron.concordiashanghai.org/), and President of PFL ( Phoenix Flight Laboratory). I've worked extensively with the DJI Tello SDK & Drone during my earlier years of High-School. I'm currently focusing on ROS based PixHawk programming. Please checkout some of me repositories, and my organization: [Github Link(https://github.com/PhoenixSquadron). On the ground, I'm working on developing various anti-collision systems, ADAS, and level 3 autonomous driving algorithms.
 
-
-
-
- ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Shreyas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
+ ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
 
 
 
